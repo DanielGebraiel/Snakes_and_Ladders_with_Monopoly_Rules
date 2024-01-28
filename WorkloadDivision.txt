@@ -1,0 +1,4 @@
+Daniel Adel : [11%] Save & Open Grid + [5%] Add Ladder & Add Snake (with needed validations) + [8%] Copy & Cut and Paste Card = 24%
+Sohila Hossam :[2%] Card 5 + [2%] Card 6 + [4%] Card 7 + [6%] Card 8 + [10%] Cards [9-11] = 24%
+Nardeen Hany : [6%] Card 12 + [3%] Card 2 + [2%] Card 1 + [10%] Player movement & adding money after 3 turns + Taking Ladders & Snakes + [3%] New game = 24%
+Ziad Mohammed : [7%] Add Card + [3%] Delete Game Object + [1%] Switch to play mode and Switch back to design mode (this icon in PlayMode) + [7%] Roll Dice & Input Dice Value + [5%] Card 3 & 4 = 23%
